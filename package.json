@@ -1,0 +1,12 @@
+{
+  "name": "employee-tracker-nn1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Neeraja Narayanan",
+  "license": "ISC",
+  "description": ""
+}
